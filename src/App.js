@@ -1,10 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 
+
 function App() {
+  const something = () => {
+    console.log("hi mo");
+  }
   return (
     <div className="container">
-
     </div>
   );
 }
